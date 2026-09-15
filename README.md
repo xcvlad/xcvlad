@@ -45,26 +45,16 @@ Mi laboratorio personal donde rompo cosas para aprender a arreglarlas:
 - 🔒 Acceso remoto seguro por **VPN** y gestión headless por SSH
 - 📦 Todo documentado y reproducible — porque un sysadmin sin documentación es un futuro incidente
 
-## 📈 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcvlad&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcvlad&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
 ## 📫 Contacto
 
 - 💼 LinkedIn: [tu-linkedin](https://linkedin.com/in/TU_LINKEDIN)
-- ✉️ Email: tu-email@ejemplo.com
+- ✉️ Email: carvla2@alu.edu.gva.es
 
 ---
 
 <div align="center">
 
-*"El mejor sysadmin es el que parece que no hace nada... porque todo funciona."*
+*"Automatízalo..."*
 
 ![Visitas](https://komarev.com/ghpvc/?username=xcvlad&color=blueviolet&style=flat-square&label=Visitas)
 
